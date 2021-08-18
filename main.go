@@ -8,7 +8,6 @@ import (
 )
 
 func main() {
-	// Learn here :: https://www.youtube.com/watch?v=ti0MyD2R0KA
 	info := "Salman have to Gooooooooooooooo"
 	fmt.Println(info)
 
